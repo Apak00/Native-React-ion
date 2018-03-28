@@ -1,5 +1,5 @@
 ## Author's README:
-This is a TodoList App Which is created by following course by Hendrik Swanepoel.
+This is a TodoList App Which is created by following the React-Native Course by Hendrik Swanepoel.
 
 ## ____________
 
